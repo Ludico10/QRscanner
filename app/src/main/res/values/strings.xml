@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QRscanner</string>
+    <string name="scanner_text">Point the camera at QR</string>
+    <string name="enter_string">Enter String</string>
+    <string name="create_qr">Create QR</string>
+    <string name="visit_link">Visit Link</string>
+    <string name="copy_link">Copy link</string>
+    <string name="copy_text">Copy text</string>
+    <string name="save_link">Link saved</string>
+    <string name="save_link_error">Unable to copy link</string>
+    <string name="save_text_error">Unable to copy text</string>
+    <string name="save_code_error">QRCode saving error</string>
+    <string name="empty_text">Text field is empty</string>
+</resources>
